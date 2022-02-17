@@ -69,7 +69,7 @@ define(["jquery", "easy-admin"], function ($, ea) {
                     }
                 ]],
             });
-            //事件监听方法：ea.listen(preposeCallback, ok, no, ex)，可能用得比较多的还是preposeCallback的提交前置回调。
+            //事件监听方法：ea.listen(preposeCallback, ok, no, ex)，可能用得比较多的还是preposeCallback的提交前置回调。测试git
             ea.listen();
         },
         add: function () {
